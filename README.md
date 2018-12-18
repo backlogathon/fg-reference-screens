@@ -8,7 +8,7 @@ This repository contains lots and lots of screenshots of as many fighting games 
 
 ## Resource Conventions
 
-All screens are at maximum resolution. All HUD elements are in default positions.
+All screens are at maximum resolution. All HUD elements are in default positions. Screens are taken using the "primary" tournament platform for any given game, which for most games is the PlayStation 4.
 
 ## Contributing
 
@@ -16,6 +16,6 @@ If you need something that's not here, please file an issue. If you have screens
 
 ## Support
 
-If you find this useful, please consider dropping me a tip. You can do this at:
+If you find this useful, please consider dropping me a tip. Your tips help me buy newer games to keep this archive up-to-date.     You can do this at:
 
 http://support.backlogathon.com/
